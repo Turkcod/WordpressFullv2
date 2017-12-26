@@ -1,11 +1,3 @@
-# wpposter
-You will be able to quickly enter content in this application's shortest path to the intended WordPress-based web sites. You can add many features and use them as you wish.
+and the codes we attached last. 
 
-
- // it will call our function and get post id
-
-
- int postId = postWordpress(title.Text, body.Text, category.Text, keywords.Text);
-          
-
-Turkish Language : Bu uygulamanın amacı wordpress tabanlı web sitelerinize en kısa yoldan hızlı bir şekilde içerik girebilmeniz olacak. Dilerseniz birçok özellik ekleyebilir ve dilediğiniz gibi kullanabilirsiniz.
+We can develop the program together, you can ask me, I can develop it. You can reach me.
