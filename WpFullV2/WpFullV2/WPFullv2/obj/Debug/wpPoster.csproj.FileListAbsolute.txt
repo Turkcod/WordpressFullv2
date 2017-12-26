@@ -1,0 +1,40 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.Main.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\bin\Debug\wpPoster.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\bin\Debug\wpPoster.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\bin\Debug\wpPoster.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\wpPoster\wpPoster\bin\Debug\JoeBlogs.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\wpPoster\wpPoster\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.exe.config
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.exe
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.pdb
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.Main.resources
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.Properties.Resources.resources
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csproj.GenerateResource.Cache
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.exe
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.pdb
+C:\Users\mustafa\Downloads\Compressed\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.exe.config
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.exe
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.pdb
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.Main.resources
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.Properties.Resources.resources
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csproj.GenerateResource.Cache
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.exe
+C:\Users\mustafa\source\repos\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.pdb
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.exe.config
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.exe
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.pdb
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.exe
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\bin\Debug\wpPoster.pdb
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csprojResolveAssemblyReference.cache
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.Main.resources
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.Properties.Resources.resources
+C:\Users\Kubmarley\Desktop\uyg7\wpposter-master\wpposter-master\wpPoster\wpPoster\obj\Debug\wpPoster.csproj.GenerateResource.Cache
